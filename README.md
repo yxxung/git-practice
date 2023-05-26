@@ -1,1 +1,1 @@
-# git-practice
+# git clone 연습용
